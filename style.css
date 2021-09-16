@@ -1,0 +1,87 @@
+/*default*/
+
+ *{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+Section{
+    background-color: rgba(80, 226, 43, 0.082);
+   
+}
+
+.testimony1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    height:100%;
+    border: crimson solid 10px;
+}
+    
+.testimony2{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    height:100%;
+    border: crimson solid 10px;
+}
+
+
+.testimony1 p {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 2rem; 
+     text-align: justify;
+   
+}
+  
+
+
+.testimony1 img {
+    padding-left: 40px;
+    height: 100%;
+    border: tomato 10px;
+}
+
+
+.testimony2 p {
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: justify;
+    
+}
+ 
+.testimony2 img {
+    padding-left: 40px;
+    height: 100%;
+    
+}
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
